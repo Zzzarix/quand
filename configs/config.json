@@ -1,0 +1,24 @@
+{
+  "port": "8000",
+  "dbUsers": {
+    "name": "Questions",
+    "password": "uHotzaQrnTgCCbGp",
+    "username": "QuandRoot"
+  },
+  "dbQuests": {
+    "name": "Questions",
+    "password": "uHotzaQrnTgCCbGp",
+    "username": "QuandRoot"
+  },
+  "parsers": {
+    "reddit": {
+      "id": "CRctbuvN7_-poVSi2PtXpA",
+      "secret": "dounX3gSl_HlAb50qAs6NTWt61yuwg",
+      "username": "BlameRing",
+      "password": "G2Xe9gQu"
+    }
+  },
+  "api": {
+    "version": "v1"
+  }
+}
